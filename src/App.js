@@ -6,6 +6,7 @@ const App=(props)=>{
       <div class='pricing-card'>
         <h3 class='pricing-card-header text-muted text-center'>FREE</h3>
         <h6 class="card-price text-center">$0<span class="period">/month</span></h6>
+    <hr/>
         <ul>
         <li><span class="fa-li"><i class="fas fa-check"></i></span>Single User</li>
               <li><span class="fa-li"><i class="fas fa-check"></i></span>5GB Storage</li>
@@ -26,6 +27,7 @@ const App=(props)=>{
       <div class='pricing-card'>
         <h3 class='pricing-card-header text-muted text-center'>PLUS</h3>
         <h6 class="card-price text-center">$9<span class="period">/month</span></h6>
+<hr/>
         <ul>
         <li><span class="fa-li"><i class="fas fa-check"></i></span>5 User</li>
               <li><span class="fa-li"><i class="fas fa-check"></i></span>50GB Storage</li>
@@ -43,6 +45,7 @@ const App=(props)=>{
       <div class='pricing-card'>
         <h3 class='pricing-card-header text-muted text-center'>PRO</h3>
         <h6 class="card-price text-center">$49<span class="period">/month</span></h6>
+<hr/>
         <ul>
         <li><span class="fa-li"><i class="fas fa-check"></i></span><strong>Unlimited Users</strong>
               </li>
