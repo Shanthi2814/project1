@@ -8,7 +8,7 @@ const App=(props)=>{
         <h6 class="card-price text-center">$0<span class="period">/month</span></h6>
     <hr/>
         <ul>
-        <li><span class="fa-li"><i class="fas fa-check"></i></span>Single User</li>
+        <li><span class="fa-li"><i class="fas fa-check"></i></span>✔ Single User</li>
               <li><span class="fa-li"><i class="fas fa-check"></i></span>5GB Storage</li>
               <li><span class="fa-li"><i class="fas fa-check"></i></span>Unlimited Public Projects</li>
               <li><span class="fa-li"><i class="fas fa-check"></i></span>Community Access</li>
