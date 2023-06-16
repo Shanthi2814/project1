@@ -47,7 +47,7 @@ const App=(props)=>{
         <h6 class="card-price text-center">$49<span class="period">/month</span></h6>
 <hr/>
         <ul>
-        <li><span class="fa-li"><i class="fas fa-check"></i></span><strong>Unlimited Users</strong>
+        <li><span class="fa-li"><i class="fas fa-check"></i></span><strong>✔ Unlimited Users</strong>
               </li>
               <li><span class="fa-li"><i class="fas fa-check"></i></span>✔ 150GB Storage</li>
               <li><span class="fa-li"><i class="fas fa-check"></i></span>✔ Unlimited Public Projects</li>
